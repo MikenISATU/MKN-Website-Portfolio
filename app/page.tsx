@@ -107,7 +107,7 @@ const externalLinks = {
 };
 
 const mediaLinks = {
-  profileImage: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1776274889/1x1_fcoawv.png',
+  profileImage: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1776960514/496505609_9751579841628129_665665086682227040_n_jmywls.jpg',
 };
 
 const stats = [
