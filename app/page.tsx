@@ -163,6 +163,14 @@ const deployedWebsites: ProjectLink[] = [
     description:
       'A character-driven creative build with playful visual presentation and lightweight front-end execution.',
   },
+    {
+    name: 'P A R A',
+    url: 'https://para-website.vercel.app/',
+    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1777043675/PARA_wvxopx.jpg',
+    stack: 'NextJS - Vercel',
+    description:
+      'A commuter-focused platform designed to simplify navigation across the Philippines. Built with a focus on accessibility, real-time usability, and seamless user experience.',
+  },
 ];
 
 const bannerItems: BannerItem[] = [
