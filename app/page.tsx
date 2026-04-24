@@ -288,8 +288,8 @@ const experience = [
     company: 'PARA Startup',
     period: 'Jun 2025 - Present',
     points: [
-      'Built backend systems, database architecture, and API integrations.',
-      'Contributed to a project that secured funding support.',
+      'Responsible for UI/UX design, creating clean and user-friendly interfaces.',
+      'Contributed to a project that secured funding support and in beta testing mode.',
     ],
   },
   {
