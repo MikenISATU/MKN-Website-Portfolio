@@ -1066,7 +1066,6 @@ export default function Page() {
                   <h3 className="mt-4 text-2xl font-semibold text-white">{project.name}</h3>
                   <p className="mt-4 leading-7 text-neutral-300">{project.description}</p>
                   <div className="mt-8 inline-flex items-center gap-2 text-sm text-white">
-                    <ArrowRight size={16} />
                   </div>
                 </article>
               </Reveal>
