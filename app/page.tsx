@@ -177,7 +177,7 @@ const deployedWebsites: ProjectLink[] = [
     image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1777644991/DocuChain_djbok9.jpg',
     stack: 'Base Mainnet – Solidity – Hardhat – Next.js – Vercel',
     description:
-      'DocuChain is a Base Mainnet dApp that lets users encrypt documents and mint them as NFTs using Solidity smart contracts deployed via Hardhat, ensuring true onchain ownership and verification',
+      'Encrypt documents and mint them as NFTs on Base Mainnet for onchain ownership and verification using Solidity smart contracts.',
   },
 ];
 
