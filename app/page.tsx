@@ -171,6 +171,14 @@ const deployedWebsites: ProjectLink[] = [
     description:
       'A commuter-focused platform designed to simplify navigation across the Philippines. Built with a focus on accessibility, real-time usability, and seamless user experience.',
   },
+    {
+    name: 'DocuChain',
+    url: 'https://docuchain-five.vercel.app/',
+    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1777644991/DocuChain_djbok9.jpg',
+    stack: 'Base Mainnet – Solidity – Hardhat – Next.js – Vercel',
+    description:
+      'DocuChain is a Base Mainnet dApp that lets users encrypt documents and mint them as NFTs using Solidity smart contracts deployed via Hardhat, ensuring true onchain ownership and verification',
+  },
 ];
 
 const bannerItems: BannerItem[] = [
