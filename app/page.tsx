@@ -1156,7 +1156,7 @@ export default function Page() {
                 />
                 <FloatingIconCluster
                   title="Learning Tracks"
-                  description="A visual snapshot of the different areas these certifications support."
+                  description="I have been learning every day since my college days, and I continue to do so today."
                   items={[
                     {
                       icon: Award,
