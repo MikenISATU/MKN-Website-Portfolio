@@ -1108,7 +1108,7 @@ export default function Page() {
             <SectionHeading
               eyebrow="Banner Work"
               title="See some of my edited X banners"
-              description="The cooking I do"
+              description="The cooking I do has improved over time."
               align="center"
             />
           </Reveal>
