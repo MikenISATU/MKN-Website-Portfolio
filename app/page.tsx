@@ -107,7 +107,7 @@ const externalLinks = {
 };
 
 const mediaLinks = {
-  profileImage: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1776960514/496505609_9751579841628129_665665086682227040_n_jmywls.jpg',
+  profileImage: 'https://res.cloudinary.com/dorxi3vk8/image/upload/v1778607647/pp_en9wf6.jpg',
 };
 
 const stats = [
@@ -142,7 +142,7 @@ const deployedWebsites: ProjectLink[] = [
   {
     name: 'Pattex',
     url: 'https://pattex-zcqu.vercel.app/',
-    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1776575010/pattex_sgwuau.jpg',
+    image: 'https://res.cloudinary.com/dorxi3vk8/image/upload/v1778607994/PattexSC_kkw0iq.jpg',
     stack: 'Next.js - UI/UX - Startup Site',
     description:
       'A commissioned startup website with modern presentation, clear user flow, and a custom frontend build.',
@@ -150,7 +150,7 @@ const deployedWebsites: ProjectLink[] = [
   {
     name: 'Digitization Project Report CSC RO6',
     url: 'https://cscr06dpr.vercel.app/',
-    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1776575010/csc_o8qfkw.jpg',
+    image: 'https://res.cloudinary.com/dorxi3vk8/image/upload/v1778607994/CSC_nfrnev.jpg',
     stack: 'Next.js - Supabase - Vercel',
     description:
       'A reporting-focused website built for a government-oriented use case with structured data and deployment support.',
@@ -158,7 +158,7 @@ const deployedWebsites: ProjectLink[] = [
   {
     name: 'Moose Haven',
     url: 'https://moose-haven.vercel.app/',
-    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1776575010/Capture_gotovm.jpg',
+    image: 'https://res.cloudinary.com/dorxi3vk8/image/upload/v1778607994/Moose_t3zsdl.jpg',
     stack: 'Creative Website',
     description:
       'A character-driven creative build with playful visual presentation and lightweight front-end execution.',
@@ -166,7 +166,7 @@ const deployedWebsites: ProjectLink[] = [
     {
     name: 'P A R A',
     url: 'https://para-website.vercel.app/',
-    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1777043675/PARA_wvxopx.jpg',
+    image: 'https://res.cloudinary.com/dorxi3vk8/image/upload/v1778607995/PARA1_ejrikk.jpg',
     stack: 'NextJS - Vercel',
     description:
       'A commuter-focused platform designed to simplify navigation across the Philippines. Built with a focus on accessibility, real-time usability, and seamless user experience.',
@@ -174,7 +174,7 @@ const deployedWebsites: ProjectLink[] = [
     {
     name: 'DocuChain',
     url: 'https://docuchain-five.vercel.app/',
-    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1777644991/DocuChain_djbok9.jpg',
+    image: 'https://res.cloudinary.com/dorxi3vk8/image/upload/v1778607994/DocuChain_awubyr.jpg',
     stack: 'Base Mainnet – Solidity – Hardhat – Next.js – Vercel',
     description:
       'Encrypt documents and mint them as NFTs on Base Mainnet for onchain ownership and verification using Solidity smart contracts.',
