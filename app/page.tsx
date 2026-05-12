@@ -185,27 +185,27 @@ const bannerItems: BannerItem[] = [
   {
     title: 'Twitter Banner Sample 01',
     subtitle: '',
-    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1776575299/bruce_v4ypbh.png',
+    image: 'https://res.cloudinary.com/dorxi3vk8/image/upload/v1778608109/TIO_WITH_COMMISSION_1_csnjju.jpg',
   },
   {
     title: 'Twitter Banner Sample 02',
     subtitle: '',
-    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1776575265/s3_trbhl3.png',
+    image: 'https://res.cloudinary.com/dorxi3vk8/image/upload/v1778608104/9_qmob46.png',
   },
   {
     title: 'Twitter Banner Sample 03',
     subtitle: '',
-    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1776575262/TIO_WITH_COMMISSION_1_sathj4.jpg',
+    image: 'https://res.cloudinary.com/dorxi3vk8/image/upload/v1778608099/s3_wf2aco.png',
   },
   {
     title: 'Twitter Banner Sample 04',
     subtitle: '',
-    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1776575255/FF_klncgv.png',
+    image: 'https://res.cloudinary.com/dorxi3vk8/image/upload/v1778608094/1ST_OPTION_wufohi.png',
   },
   {
     title: 'Twitter Banner Sample 05',
     subtitle: '',
-    image: 'https://res.cloudinary.com/da4k3yxhu/image/upload/v1776575227/2_yzu4y8.png',
+    image: 'https://res.cloudinary.com/dorxi3vk8/image/upload/v1778608117/s1_wrfkct.jpg',
   },
 ];
 
