@@ -863,7 +863,7 @@ export default function Page() {
 
               <Reveal delay={80}>
                 <h1 className="mt-6 text-4xl font-semibold leading-tight tracking-tight text-white sm:text-5xl lg:text-6xl xl:text-7xl">
-                  Building polished websites, practical systems, and high-trust technical work.
+                  Building websites, systems, and trusted tech.
                 </h1>
               </Reveal>
 
