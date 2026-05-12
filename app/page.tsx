@@ -1107,8 +1107,8 @@ export default function Page() {
           <Reveal>
             <SectionHeading
               eyebrow="Banner Work"
-              title="A clean, centered showcase that stays smooth on mobile."
-              description="The carousel keeps your presentation polished even before the real assets are dropped in."
+              title="See some of my edited X banners"
+              description="The cooking I do"
               align="center"
             />
           </Reveal>
